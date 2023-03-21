@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "title": "My first blog",
+            "body": "This is my first blog",
+            "author": "John Doe",
+            "id"    : 1
+        },
+        {
+            "title": "My second blog",
+            "body": "This is my second blog",
+            "author": "kartik Doe",
+            "id"    : 2
+        },
+        {
+            "title": "My third blog",
+            "body": "This is my third blog",
+            "author": "mali Doe",
+            "id"    : 3
+        }
+    ]
+}
